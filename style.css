@@ -1,0 +1,16 @@
+li {
+margin-left: 20px;
+margin-right: 20px;
+
+}
+li:hover { background-color: yellow;
+    color: blue;
+    text-decoration: underline;
+    transform: scale(1.3);
+    
+
+}
+.navbar-brand:hover { background-color: yellow;
+    color: blue;
+    text-decoration: underline;
+    transform: scale(1.3);
